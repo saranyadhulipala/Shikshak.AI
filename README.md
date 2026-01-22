@@ -66,7 +66,7 @@ ShikshaLokam/
 - **PDF**: ReportLab
 - **Deployment**: Vercel (frontend) + Railway (backend)
 
-## 🎭 Demo Flow (5 minutes)
+## 🎭 Demo Flow 
 1. Open dashboard → See 3 clusters (30 sec)
 2. Click "Generate for Cluster A" → Fill form (2 min)
 3. Watch AI generate Hindi module live (30 sec)
@@ -189,3 +189,4 @@ See [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed setup instructions.
 
 ---
 **Deadline**: Jan 22, 2026 | **Demo**: Feb 5, 2026
+
